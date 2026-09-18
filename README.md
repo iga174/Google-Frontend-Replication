@@ -1,4 +1,4 @@
-Re-Implementation of the front end for Google’s homepage, which meets the following specifications:
+Re-Implementation of the front end for Google’s homepage, using HTML and CSS. Meets the following specifications:
 1. It contains three pages: one for regular Google Search,one for Google Image Search,
    and one for Google Advanced Search
 2. Text Search: users can type in a query, click “Google Search”, and they are taken to
